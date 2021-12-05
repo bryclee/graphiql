@@ -1,5 +1,12 @@
 # graphql-language-service
 
+## 3.2.6
+
+### Patch Changes
+
+- Updated dependencies [[`581df6d8`](https://github.com/graphql/graphiql/commit/581df6d83f4bc145de94e5d730b00e5b025907da), [`9b72af57`](https://github.com/graphql/graphiql/commit/9b72af57183f4435992c232e63506ad2f5a72576)]:
+  - graphql-language-service-interface@2.10.0
+
 ## 3.2.5
 
 ### Patch Changes
